@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
 </p>
 
-## Some of my Github Stats
+## Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=kimdongho alt=kimdongho /> </p>
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=kim-dongho&show_icons=true&include_all_commits=true)](https://github.com/kimdongho/github-readme-stats)
