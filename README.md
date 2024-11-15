@@ -1,5 +1,20 @@
-## Hey 👋, This is Kim DongHo
-[![Gmail Badge](https://img.shields.io/badge/-dongho_k@naver.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:dongho_k@naver.com)](mailto:dongho_k@naver.com) [![Github Badge](https://img.shields.io/badge/-kimdongho-grey?style=flat&logo=github&logoColor=white&link=https://github.com/kimdongho/)] [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://dh-blog.vercel.app//)](https://dh-blog.vercel.app//) <p align='left'>Frontend Developer</p>
+## Kim DongHo
+[![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://dh-blog.vercel.app//)](https://dh-blog.vercel.app//) <p align='left'>Frontend Developer</p>
+
+## Skills
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=Recoil&logoColor=white" alt="Recoil" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS" />
+  <img src="https://img.shields.io/badge/Emotion-C9655D?style=for-the-badge&logo=emotion&logoColor=white" alt="Emotion" />
+  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+</p>
+
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=kimdongho alt=kimdongho /> </p>
 
