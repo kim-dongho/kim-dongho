@@ -1,5 +1,5 @@
 ## Kim DongHo
-[![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://dh-blog.vercel.app//)](https://dh-blog.vercel.app//) <p align='left'>Frontend Developer</p>
+[![Blog Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://dh-blog.vercel.app//)](https://dh-blog.vercel.app//) <p align='left'>Frontend Developer</p>
 
 ## Skills
 
