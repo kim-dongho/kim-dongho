@@ -1,5 +1,5 @@
 ## Hey 👋, This is Kim DongHo
-[![Gmail Badge](https://img.shields.io/badge/-dongho_k@naver.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:dongho_k@naver.com)](mailto:dongho_k@naver.com) [![Github Badge](https://img.shields.io/badge/-kimdongho-grey?style=flat&logo=github&logoColor=white&link=https://github.com/kimdongho/)](https://www.github.com/kimdongho/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://dh-blog.vercel.app//)](https://dh-blog.vercel.app//) <p align='left'>Frontend Developer</p>
+[![Gmail Badge](https://img.shields.io/badge/-dongho_k@naver.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:dongho_k@naver.com)](mailto:dongho_k@naver.com) [![Github Badge](https://img.shields.io/badge/-kimdongho-grey?style=flat&logo=github&logoColor=white&link=https://github.com/kimdongho/)] [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://dh-blog.vercel.app//)](https://dh-blog.vercel.app//) <p align='left'>Frontend Developer</p>
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=kimdongho alt=kimdongho /> </p>
 
