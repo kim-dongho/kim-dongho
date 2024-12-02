@@ -20,7 +20,6 @@
 <p align=left> <img src=https://komarev.com/ghpvc/?username=kimdongho alt=kimdongho /> </p>
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=kim-dongho&show_icons=true&include_all_commits=true)](https://github.com/kimdongho/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kim-dongho&layout=compact)](https://github.com/kimdongho/github-readme-stats)
 
 <!--START_SECTION:waka-->
  
