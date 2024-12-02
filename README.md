@@ -21,6 +21,8 @@
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=kim-dongho&show_icons=true&include_all_commits=true)](https://github.com/kimdongho/github-readme-stats)
 
+## Week
+[![wakatime](https://wakatime.com/badge/user/dd603e29-c62d-4a93-8b27-4a7167c13f1a.svg)](https://wakatime.com/@dd603e29-c62d-4a93-8b27-4a7167c13f1a)
 <!--START_SECTION:waka-->
  
 <!--END_SECTION:waka-->
