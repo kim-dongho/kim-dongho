@@ -17,7 +17,8 @@
 </p>
 
 ## Week Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=kimdongho alt=kimdongho /> </p>
+<p align=left> <img src=https://komarev.com/ghpvc/?username=kimdongho alt=kimdongho /></p>
+
 <!--START_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/user/dd603e29-c62d-4a93-8b27-4a7167c13f1a.svg)](https://wakatime.com/@dd603e29-c62d-4a93-8b27-4a7167c13f1a)
 
