@@ -16,13 +16,8 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
 </p>
 
-## Github Stats
+## Week Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=kimdongho alt=kimdongho /> </p>
-
-[![Github stats](https://github-readme-stats.vercel.app/api?username=kim-dongho&show_icons=true&include_all_commits=true)](https://github.com/kimdongho/github-readme-stats)
-
-## Week
-
 <!--START_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/user/dd603e29-c62d-4a93-8b27-4a7167c13f1a.svg)](https://wakatime.com/@dd603e29-c62d-4a93-8b27-4a7167c13f1a)
 
