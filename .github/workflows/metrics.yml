@@ -25,7 +25,7 @@ jobs:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true
           path: profile/stats.svg
-          token: ${{ secrets.METRIC_KEY }}
+          token: ${{ secrets.METRIC_TOKEN }}
 
       # 3. WakaTime 카드 생성
       - name: Generate WakaTime card
@@ -34,7 +34,7 @@ jobs:
           card: wakatime
           options: username=KimDongHo&layout=compact
           path: profile/wakatime.svg
-          token: ${{ secrets.METRIC_KEY }}
+          token: ${{ secrets.METRIC_TOKEN }}
 
       # 4. 변경된 SVG 파일들을 커밋하고 푸시
       - name: Commit and Push cards
