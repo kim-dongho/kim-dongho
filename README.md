@@ -22,4 +22,5 @@
 <!--START_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/user/dd603e29-c62d-4a93-8b27-4a7167c13f1a.svg)](https://wakatime.com/@dd603e29-c62d-4a93-8b27-4a7167c13f1a)
 
+![WakaTime](./profile/wakatime.svg)
 <!--END_SECTION:waka-->
