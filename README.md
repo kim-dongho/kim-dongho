@@ -24,5 +24,5 @@
 
 [![kim-dongho's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KimDongHo?v=1)](https://github.com/anuraghazra/github-readme-stats)
 
-![WakaTime](./profile/profile/wakatime.svg)
+![WakaTime](./profile/wakatime.svg)
 <!--END_SECTION:waka-->
