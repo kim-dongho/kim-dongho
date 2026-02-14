@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
 </p>
 
-## Week Stats
+## Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=kimdongho alt=kimdongho /></p>
 
 <!--START_SECTION:waka-->
