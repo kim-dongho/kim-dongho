@@ -22,7 +22,4 @@
 <!--START_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/user/dd603e29-c62d-4a93-8b27-4a7167c13f1a.svg)](https://wakatime.com/@dd603e29-c62d-4a93-8b27-4a7167c13f1a)
 
-[![kim-dongho's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KimDongHo?v=1)](https://github.com/anuraghazra/github-readme-stats)
-
-![WakaTime](./profile/wakatime.svg)
 <!--END_SECTION:waka-->
